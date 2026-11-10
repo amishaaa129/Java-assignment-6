@@ -1,0 +1,3 @@
+101, Rahul, Computer Engineering
+102, Priya, Information Technology
+103, Aman, Electronics
